@@ -1,0 +1,5 @@
+*~
+*.pyc
+url_lists/*
+*.log
+crawl.py
